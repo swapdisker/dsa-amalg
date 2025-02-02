@@ -1,2 +1,5 @@
 # dsa-amalg
-some useful stuff
+Recursos:
+
+Visualizacion de Algoritnos y estructuras
+https://csvistool.com/
