@@ -17,4 +17,4 @@ https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/index.html
 ### CS61b UC Berkeley
 https://cs61b-2.gitbook.io/cs61b-textbook/4.-sllists
 
-Propietary data referenced on this repo is the sole property of their respective authors and is fairly used by educational purposes.
+Propietary data referenced on this repo is the sole property of their respective authors and is fairly used by educational purposes. Everything else is GPL
