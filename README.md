@@ -1,6 +1,9 @@
 # CC182 Summer of DSA
 ## Recursos:
 
+### OSSU Core theory
+https://github.com/ossu/computer-science/?tab=readme-ov-file#core-theory
+
 ### Master Theorem & Problemset:
 https://www.math.umd.edu/~immortal/CMSC351/notes/mastertheorem.pdf
 
