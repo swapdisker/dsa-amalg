@@ -4,7 +4,7 @@
 ### OSSU Core theory
 https://github.com/ossu/computer-science/?tab=readme-ov-file#core-theory
 
-### Visualizacion de Algoritnos y estructuras
+### DSA Visualization
 https://csvistool.com/
 
 ### OpenDSA
